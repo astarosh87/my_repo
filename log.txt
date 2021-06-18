@@ -1,0 +1,4 @@
+pull in origin
+pull in remote_bb
+pull in remote_github
+pull in remote_gitlab
